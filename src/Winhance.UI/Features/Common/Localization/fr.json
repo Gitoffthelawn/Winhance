@@ -1192,7 +1192,7 @@
   "PowerPlan_HighPerformance_Description": "Fournit des performances maximales au détriment d'une consommation d'énergie plus élevée.",
   "PowerPlan_UltimatePerformance_Name": "Performances ultimes",
   "PowerPlan_UltimatePerformance_Description": "Fournit des performances ultimes sur les PC haut de gamme.",
-  "PowerPlan_WinhancePowerPlan_Name": "Mode d'alimentation Winhance",
+  "PowerPlan_WinhancePowerPlan_Name": "Winhance Power Plan",
   "PowerPlan_WinhancePowerPlan_Description": "Performances ultimes avec des paramètres optimisés par Winhance pour des performances maximales.",
   "PowerPlan_Active_Badge": "[Actif]",
   "PowerPlan_Status_Exists": "Installé sur le système",

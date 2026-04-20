@@ -183,8 +183,16 @@ public class SettingReviewDiffApplier : ISettingReviewDiffApplier
                 // Compare by SelectedIndex
                 var currentIndex = viewModel.SelectedValue is int idx ? idx : -1;
 
-                // Special handling: CustomStateValues or PowerPlan means "custom" config
-                if (configItem.CustomStateValues != null || configItem.PowerPlanGuid != null)
+                // PowerPlan diffs are computed eagerly in ConfigReviewService.ComputeEagerDiffAsync
+                // using GUID-and-predefined-plan resolution. If eager didn't register a diff for
+                // this setting, respect that result — a naive display-name compare here would
+                // produce a false positive whenever the dropdown shows a localized label while
+                // the config stores the raw English/registry name.
+                if (configItem.PowerPlanGuid != null)
+                    return (false, string.Empty, string.Empty);
+
+                // Special handling: CustomStateValues means "custom" config
+                if (configItem.CustomStateValues != null)
                 {
                     var currentDisplayName = GetComboBoxDisplayName(viewModel, currentIndex);
                     var configDisplayName = configItem.PowerPlanName ?? "Custom";

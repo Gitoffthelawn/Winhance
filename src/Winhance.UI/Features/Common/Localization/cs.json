@@ -1192,7 +1192,7 @@
   "PowerPlan_HighPerformance_Description": "Poskytuje maximální výkon na úkor vyšší spotřeby energie.",
   "PowerPlan_UltimatePerformance_Name": "Maximální výkon",
   "PowerPlan_UltimatePerformance_Description": "Poskytuje maximální výkon na výkonnějších počítačích.",
-  "PowerPlan_WinhancePowerPlan_Name": "Plán napájení Winhance",
+  "PowerPlan_WinhancePowerPlan_Name": "Winhance Power Plan",
   "PowerPlan_WinhancePowerPlan_Description": "Maximální výkon s optimalizovanými nastaveními Winhance pro maximální výkon.",
   "PowerPlan_Active_Badge": "[Aktivní]",
   "PowerPlan_Status_Exists": "Nainstalováno v systému",

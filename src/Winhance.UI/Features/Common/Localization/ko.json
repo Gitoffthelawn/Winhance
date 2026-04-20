@@ -1230,7 +1230,7 @@
   "PowerPlan_HighPerformance_Description": "높은 전력 소비를 감수하고 최대 성능을 제공합니다.",
   "PowerPlan_UltimatePerformance_Name": "최고의 성능",
   "PowerPlan_UltimatePerformance_Description": "고사양 PC에서 최고의 성능을 제공합니다.",
-  "PowerPlan_WinhancePowerPlan_Name": "Winhance 전원 관리 옵션",
+  "PowerPlan_WinhancePowerPlan_Name": "Winhance Power Plan",
   "PowerPlan_WinhancePowerPlan_Description": "최대 성능을 위해 Winhance에 최적화된 설정이 적용된 최고의 성능입니다.",
   "PowerPlan_Active_Badge": "[활성]",
   "PowerPlan_Status_Exists": "시스템에 설치됨",

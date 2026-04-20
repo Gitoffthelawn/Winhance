@@ -1192,7 +1192,7 @@
   "PowerPlan_HighPerformance_Description": "Обеспечивает максимальную производительность за счет более высокого энергопотребления.",
   "PowerPlan_UltimatePerformance_Name": "Максимальная производительность",
   "PowerPlan_UltimatePerformance_Description": "Обеспечивает максимальную производительность на высокопроизводительных ПК.",
-  "PowerPlan_WinhancePowerPlan_Name": "План электропитания Winhance",
+  "PowerPlan_WinhancePowerPlan_Name": "Winhance Power Plan",
   "PowerPlan_WinhancePowerPlan_Description": "Максимальная производительность с оптимизированными настройками Winhance для максимальной производительности.",
   "PowerPlan_Active_Badge": "[Активен]",
   "PowerPlan_Status_Exists": "Установлен в системе",

@@ -1192,7 +1192,7 @@
   "PowerPlan_HighPerformance_Description": "提供最高效能，但會增加耗電量。",
   "PowerPlan_UltimatePerformance_Name": "終極效能",
   "PowerPlan_UltimatePerformance_Description": "在高階電腦上提供終極效能。",
-  "PowerPlan_WinhancePowerPlan_Name": "Winhance 電源計畫",
+  "PowerPlan_WinhancePowerPlan_Name": "Winhance Power Plan",
   "PowerPlan_WinhancePowerPlan_Description": "透過 Winhance 最佳化設定的終極效能，提供最大效能。",
   "PowerPlan_Active_Badge": "[使用中]",
   "PowerPlan_Status_Exists": "已安裝於系統上",

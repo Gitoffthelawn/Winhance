@@ -1192,7 +1192,7 @@
   "PowerPlan_HighPerformance_Description": "Levert maximale prestaties ten koste van hoger energieverbruik.",
   "PowerPlan_UltimatePerformance_Name": "Ultieme Prestaties",
   "PowerPlan_UltimatePerformance_Description": "Biedt ultieme prestaties op high-end pc's.",
-  "PowerPlan_WinhancePowerPlan_Name": "Winhance Energiebeheerschema",
+  "PowerPlan_WinhancePowerPlan_Name": "Winhance Power Plan",
   "PowerPlan_WinhancePowerPlan_Description": "Ultieme Prestaties met Winhance-geoptimaliseerde instellingen voor maximale prestaties.",
   "PowerPlan_Active_Badge": "[Actief]",
   "PowerPlan_Status_Exists": "Geïnstalleerd op het systeem",

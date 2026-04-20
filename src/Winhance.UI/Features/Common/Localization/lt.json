@@ -1192,7 +1192,7 @@
   "PowerPlan_HighPerformance_Description": "Suteikia maksimalų našumą didesnio energijos suvartojimo sąskaita.",
   "PowerPlan_UltimatePerformance_Name": "Maksimalus našumas",
   "PowerPlan_UltimatePerformance_Description": "Suteikia maksimalų našumą aukštesnės klasės kompiuteriuose.",
-  "PowerPlan_WinhancePowerPlan_Name": "Winhance energijos planas",
+  "PowerPlan_WinhancePowerPlan_Name": "Winhance Power Plan",
   "PowerPlan_WinhancePowerPlan_Description": "Maksimalus našumas su Winhance optimizuotais nustatymais maksimaliam našumui.",
   "PowerPlan_Active_Badge": "[Aktyvus]",
   "PowerPlan_Status_Exists": "Įdiegta sistemoje",

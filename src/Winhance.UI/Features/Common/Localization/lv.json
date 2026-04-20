@@ -1192,7 +1192,7 @@
   "PowerPlan_HighPerformance_Description": "Nodrošina maksimālu veiktspēju uz augstāka enerģijas patēriņa rēķina.",
   "PowerPlan_UltimatePerformance_Name": "Galvenā veiktspēja",
   "PowerPlan_UltimatePerformance_Description": "Nodrošina galveno veiktspēju augstākas klases datoros.",
-  "PowerPlan_WinhancePowerPlan_Name": "Winhance enerģijas plāns",
+  "PowerPlan_WinhancePowerPlan_Name": "Winhance Power Plan",
   "PowerPlan_WinhancePowerPlan_Description": "Galvenā veiktspēja ar Winhance optimizētiem iestatījumiem maksimālai veiktspējai.",
   "PowerPlan_Active_Badge": "[Aktīvs]",
   "PowerPlan_Status_Exists": "Instalēts sistēmā",

@@ -1192,7 +1192,7 @@
   "PowerPlan_HighPerformance_Description": "Zapewnia maksymalną wydajność kosztem większego zużycia energii.",
   "PowerPlan_UltimatePerformance_Name": "Najwyższa wydajność",
   "PowerPlan_UltimatePerformance_Description": "Zapewnia najwyższą wydajność na komputerach z wyższej półki.",
-  "PowerPlan_WinhancePowerPlan_Name": "Plan zasilania Winhance",
+  "PowerPlan_WinhancePowerPlan_Name": "Winhance Power Plan",
   "PowerPlan_WinhancePowerPlan_Description": "Najwyższa wydajność z ustawieniami zoptymalizowanymi przez Winhance dla maksymalnej wydajności.",
   "PowerPlan_Active_Badge": "[Aktywny]",
   "PowerPlan_Status_Exists": "Zainstalowany w systemie",

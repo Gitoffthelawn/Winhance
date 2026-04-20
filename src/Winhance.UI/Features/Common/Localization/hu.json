@@ -1195,7 +1195,7 @@
   "PowerPlan_HighPerformance_Description": "Maximális teljesítményt nyújt a nagyobb energiafogyasztás rovására.",
   "PowerPlan_UltimatePerformance_Name": "Kiemelkedő teljesítmény",
   "PowerPlan_UltimatePerformance_Description": "Kiemelkedő teljesítményt nyújt magasabb kategóriás PC-ken.",
-  "PowerPlan_WinhancePowerPlan_Name": "Winhance energiaséma",
+  "PowerPlan_WinhancePowerPlan_Name": "Winhance Power Plan",
   "PowerPlan_WinhancePowerPlan_Description": "Kiemelkedő teljesítmény Winhance-re optimalizált beállításokkal a maximális teljesítmény érdekében.",
   "PowerPlan_Active_Badge": "[Aktív]",
   "PowerPlan_Status_Exists": "Telepítve a rendszerre",
